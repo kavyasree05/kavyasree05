@@ -3,7 +3,6 @@
 
 **kavyasree05/kavyasree05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing my Masters in NWMSU
 - 🌱 I’m currently learning Salesforce Course
